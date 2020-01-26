@@ -22,6 +22,10 @@
 4. "start": "npx ts-node ./src/index.ts" //colocar el script start para ejecutar el codigo typescript sin compilar
     npm start
 
+    --git hub
+
+    https://github.com/google/gts
+
     Adds scripts to your package.json:
 check: Lints and checks for formatting problems.[ RUN ]
 fix: Automatically fixes formatting and linting problems (if possible).
